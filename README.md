@@ -1,6 +1,6 @@
 # Readability Project # 
 
-This is a project that contains a Jupyter notebook for training regression model for [CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize/overview) and a Dockerfile for trained model deployment.
+This is a project  that contains a Jupyter notebook for training a regression model for the [CommonLit Readability Prize](https://www.kaggle.com/c/commonlitreadabilityprize/overview), as well as the source code necessary to deploy the trained model.
 
 ## Usage
 ### Prerequisites ###
